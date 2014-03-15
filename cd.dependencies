@@ -1,7 +1,7 @@
 [
   {
-    "repository": "CyanDreamProject/android_device_sony_togari",
+    "repository": "CyanogenMod/android_device_sony_togari",
     "target_path": "device/sony/togari",
-    "branch": "cd-4.4"
+    "branch": "cm-11.0"
   }
 ]
